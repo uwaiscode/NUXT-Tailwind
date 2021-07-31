@@ -1,6 +1,8 @@
 import dotenv from "dotenv"; dotenv.config();
 
 export default {
+  target: 'static',
+  mode: 'universal',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: process.env.TITLE_PROJECT || "UwaisCODE Tailwind NUXT",
