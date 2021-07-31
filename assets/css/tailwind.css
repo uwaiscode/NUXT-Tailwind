@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.lato {
+    font-family: Lato;
+}
+
+.roboto {
+    font-family: Roboto;
+}
+
+.josefin-sans{
+    font-family: 'Josefi+Sans';
+}
